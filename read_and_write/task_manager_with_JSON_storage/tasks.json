@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "task": "read_write_easy",
+    "status": "Done"
+  },
+  {
+    "id": 2,
+    "task": "read_write_medium",
+    "status": "Done"
+  },
+  {
+    "id": 3,
+    "task": "read_write_hard",
+    "status": "in progress"
+  }
+]

@@ -1,0 +1,7 @@
+======== Log Report ========
+Total unique IP: 3
+Most common endpoint: /api/users (28 requests)
+Request per IP:
+127.0.0.1: 28
+192.168.1.10: 14
+10.0.0.3: 28
